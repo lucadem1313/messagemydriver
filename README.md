@@ -36,3 +36,8 @@
  - id - PRIMARY int AUTO_INCREMENT
  - userid - int
  - carid - int
+
+#### Downvotes
+ - id - PRIMARY int AUTO_INCREMENT
+ - userid - int
+ - carid - int
